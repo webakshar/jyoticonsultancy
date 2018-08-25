@@ -146,10 +146,10 @@ button.btn { margin-right: -1px; }
 
 /*Note: Section space help to create top bottom space;*/
 
-.space-small { padding-top: 40px; padding-bottom: 40px; }
-.space-medium { padding-top: 80px; padding-bottom: 80px; }
-.space-large { padding-top: 120px; padding-bottom: 120px; }
-.space-ex-large { padding-top: 140px; padding-bottom: 140px; }
+.space-small { padding-top: 30px; padding-bottom: 30px; }
+.space-medium {padding-top: 45px;padding-bottom: 45px;}
+.space-large { padding-top: 80px; padding-bottom: 80px; }
+.space-ex-large { padding-top: 120px; padding-bottom: 120px; }
 
 /*----------------------
    4.2 Margin Space
@@ -486,7 +486,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border-
  9.1 About us
 ---------------------------*/
 
-.about-section { padding-bottom: 55px; padding-top: 55px; }
+.about-section {padding-bottom: 15px;padding-top: 15px;}
 .about-title { border-bottom: 1px solid #ededed; margin-bottom: 25px; padding-bottom: 10px; }
 .about-img img { border-radius: 5px; position: relative; }
 .about-icon { }

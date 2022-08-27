@@ -17,6 +17,3 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
-
-
-
